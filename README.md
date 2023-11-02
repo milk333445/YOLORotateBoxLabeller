@@ -38,7 +38,7 @@ classes:
 2. Additionally, you can customize "key_actions" based on your personal preferences to configure custom keyboard triggers for adjusting labeling methods to meet your needs.
 ```python=
 key_actions:
-  27: 'exit'
+  27: 'exit' # esc
   61: 'plus' # =
   45: 'minus' # -
   109: 'minus' # -
