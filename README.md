@@ -64,9 +64,9 @@ key_actions:
 - Here are some explanations:
   - Esc (27): Exit annotation mode. Pressing the 'esc' key allows you to exit the annotation process.
 
-  - (=) (61) or +: Increase the size of a selected side of the bounding box. This key allows you to expand a specific side of the bounding box.
+  - = (61) or +: Increase the size of a selected side of the bounding box. This key allows you to expand a specific side of the bounding box.
 
-  - - (45) or - (109): Decrease the size of a selected side of the bounding box. Use this key to reduce the size of a particular side of the bounding box.
+  - (-) (45) or (-) (109): Decrease the size of a selected side of the bounding box. Use this key to reduce the size of a particular side of the bounding box.
 
   - Tab (9): Switch to the next side for adjustment. Press 'tab' to toggle between sides for resizing.
 
