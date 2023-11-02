@@ -20,7 +20,7 @@ pip install -r requirements.txt
 1. Before you begin, please make sure you have prepared a folder containing the image dataset you want to label (it must contain .jpg, .jpeg, or .png image files). Note that any other file formats will be automatically ignored by the program.
 2. Prepare an empty folder that will be used to store your label data files (.txt). The program will generate corresponding labels in this folder.
 
-![example](example/example.mp4)
+
 
 
 
@@ -97,5 +97,4 @@ python RotateBoxLabeller.py --last_time_num [last image number] --source [image 
     - This is a mandatory parameter that specifies the path to the folder containing the images you want to label. 
   - store (Label Storage Path):
     - This is also a mandatory parameter that specifies where you want to save the label information.
-   
-Using these parameters, you can easily configure the main program to label your image dataset and perform labeling in different modes according to your needs.
+![example](example/example.png)
