@@ -1,4 +1,4 @@
-# YOLOobbLabeller
+# YOLORotateBoxLabeller
 
 The Rotational Box Labeling Assistant is a powerful tool built on cv2, designed specifically for machine learning and computer vision researchers, aimed at simplifying the process of creating rotational box datasets. This tool allows you to annotate images in an intuitive manner and automatically save your labels, offering the following advantages:
 
