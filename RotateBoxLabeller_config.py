@@ -4,7 +4,7 @@ from easydict import EasyDict
 
 
 class ConfigManager:
-       def __init__(self, filepath='./RotateBoxLabeller_setting.yaml'):
+       def __init__(self, filepath='./RotateBoxLabeller_settings.yaml'):
               with open(filepath, 'r') as yaml_file:
                      self.data = yaml.safe_load(yaml_file)
               if 'classes' in self.data:

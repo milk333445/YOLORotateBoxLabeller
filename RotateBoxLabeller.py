@@ -1,7 +1,7 @@
 import cv2
 import numpy as np
 import copy
-from obb_test_config import ConfigManager
+from RotateBoxLabeller_config import ConfigManager
 from pathlib import Path
 import argparse
 import os
