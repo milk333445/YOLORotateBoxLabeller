@@ -98,8 +98,4 @@ python RotateBoxLabeller.py --last_time_num [last image number] --source [image 
   - store (Label Storage Path):
     - This is also a mandatory parameter that specifies where you want to save the label information.
    
-<<<<<<< HEAD
-Using these parameters, you can easily configure the main program to label your image dataset and perform labeling in different modes according to your needs.
-=======
-Using these parameters, you can easily configure the main program to label your image dataset and perform labeling in different modes according to your needs.
->>>>>>> bc30feb5a960bb71e57bfd8c16e0ebb974cf4224
+
