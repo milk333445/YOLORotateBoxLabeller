@@ -20,6 +20,10 @@ pip install -r requirements.txt
 1. Before you begin, please make sure you have prepared a folder containing the image dataset you want to label (it must contain .jpg, .jpeg, or .png image files). Note that any other file formats will be automatically ignored by the program.
 2. Prepare an empty folder that will be used to store your label data files (.txt). The program will generate corresponding labels in this folder.
 
+![example](example/example.mp4)
+
+
+
 ## Data format
 1. Our annotation generation method is designed to provide a structured and efficient way to label objects within images using a specific format. The annotations consist of the following elements, ordered from left to right, representing a clockwise coordinate system:
 ```python=
